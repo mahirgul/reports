@@ -45,6 +45,6 @@ $arrLangModule=array(
     "horas" => "saat",
     "minutos" => "dakika",
     "segundos" => "saniye",
-    "Account Code" => "Hesap Kodu",
+    "Account Code" => "Hesap Kodu"
 );
 ?>
