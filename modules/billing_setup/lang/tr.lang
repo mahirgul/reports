@@ -31,6 +31,6 @@ $arrLangModule=array(
     "Default Rate Offset" => "Varsayılan Ücret Ofseti",
     "Trunk Bill Configuration"=>"Trunk Fatura Yapılandırması",
     "Trunk"=>"Trunk",
-    "Billing Capable"=>"Faturalandırma Yetenekli",
+    "Billing Capable"=>"Faturalandırma Yetenekli"
 );
 ?>
